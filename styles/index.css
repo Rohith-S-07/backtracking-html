@@ -1,0 +1,41 @@
+.total-margin{
+    border: 2px solid rgb(236, 236, 236);
+    padding: 5% 5% 5% 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: grey;
+    }
+    .code-align{
+        border: 1.5px solid rgb(236, 236, 236);
+        border-radius: 10px;
+        padding: 20px 10px 20px 10px;
+        color: rgb(39, 248, 11);
+    
+    }
+    .bold{
+        color: black; font-size: 15px; 
+    }
+    .dark{
+        color: black;
+    }
+    
+    .div-center{
+        align-content: center;
+    }
+    
+    .same{
+        color: black;
+        position: absolute;
+        left: 20%;
+        padding-top: 24px;
+    }
+    .tab{
+        display: inline;
+    
+    }
+    
+    .bgp{
+        border-radius: 10px;
+        padding: 20px 10px 20px 10px;
+        background-color: rgb(230, 229, 229);
+    }
